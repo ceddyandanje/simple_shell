@@ -1,8 +1,6 @@
 #include "shell.h"
 
 /**
- *
- /**
 *string manipulations
 *string input
 *string output
